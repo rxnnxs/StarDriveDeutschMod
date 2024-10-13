@@ -3,19 +3,19 @@
     <PortraitName>Human</PortraitName>
   <MusicCue>sd_races_Terran</MusicCue>
   <DiplomacyDialogPath>Human</DiplomacyDialogPath>
-  <StartingShip>Bew. Aufklaerer</StartingShip>
-  <StartingScout>Aufklaerer</StartingScout>
-  <PrototypeShip>Prototyp</PrototypeShip>
-  <DefaultSmallTransport>Kl.Transporter</DefaultSmallTransport>
-  <DefaultTroopShip>Truppentransport</DefaultTroopShip>
-  <DefaultColonyShip>Kolonieschiff</DefaultColonyShip>
-  <DefaultConstructor>Bauschiff</DefaultConstructor>
-  <DefaultAssaultShuttle>Enterfaehre</DefaultAssaultShuttle>
-  <DefaultSupplyShuttle>Versorger</DefaultSupplyShuttle>
-  <DefaultResearchStation>Forschungsstation</DefaultResearchStation>
-  <DefaultMiningStation>Mine</DefaultMiningStation>
-  <DefaultMiningShip>Bergbauschiff</DefaultMiningShip>
-  <DefaultMiningStation>Bergbaustation</DefaultMiningStation>  
+  <StartingShip>Vulcan Scout</StartingShip>
+  <StartingScout>Unarmed Scout</StartingScout>
+  <PrototypeShip>Terran-Prototype</PrototypeShip>
+  <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
+  <DefaultTroopShip>Human Troop</DefaultTroopShip>
+  <DefaultColonyShip>Colony Ship</DefaultColonyShip>
+  <DefaultConstructor>Terran Constructor</DefaultConstructor>
+  <DefaultAssaultShuttle>Terran Assault Shuttle</DefaultAssaultShuttle>
+  <DefaultSupplyShuttle>Terran-Supply</DefaultSupplyShuttle>
+  <DefaultResearchStation>Basic Research Station</DefaultResearchStation>
+  <DefaultMiningStation>Basic Mining Station</DefaultMiningStation>
+  <DefaultMiningShip>Terran Mining Ship</DefaultMiningShip>
+  <DefaultMiningStation>Basic Mining Station</DefaultMiningStation>  
   
   <ThrustColor0R>95</ThrustColor0R>
   <ThrustColor0G>158</ThrustColor0G>
