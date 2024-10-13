@@ -3,18 +3,18 @@
     <PortraitName>Human</PortraitName>
   <MusicCue>sd_races_Terran</MusicCue>
   <DiplomacyDialogPath>Human</DiplomacyDialogPath>
-  <StartingShip>Vulcan Scout</StartingShip>
-  <StartingScout>Unarmed Scout</StartingScout>
-  <PrototypeShip>Terran-Prototype</PrototypeShip>
-  <DefaultSmallTransport>Small Transport</DefaultSmallTransport>
-  <DefaultTroopShip>Human Troop</DefaultTroopShip>
-  <DefaultColonyShip>Colony Ship</DefaultColonyShip>
-  <DefaultConstructor>Terran Constructor</DefaultConstructor>
-  <DefaultAssaultShuttle>Terran Assault Shuttle</DefaultAssaultShuttle>
-  <DefaultSupplyShuttle>Terran-Supply</DefaultSupplyShuttle>
-  <DefaultResearchStation>Basic Research Station</DefaultResearchStation>
-  <DefaultMiningStation>Basic Mining Station</DefaultMiningStation>
-  <DefaultMiningShip>Terran Mining Ship</DefaultMiningShip>
+  <StartingShip>Jäger</StartingShip>
+  <StartingScout>Aufklärer</StartingScout>
+  <PrototypeShip>Erden-Prototyp</PrototypeShip>
+  <DefaultSmallTransport>Kl. Transporter</DefaultSmallTransport>
+  <DefaultTroopShip>Tr.-Transporter</DefaultTroopShip>
+  <DefaultColonyShip>Kolonieschiff</DefaultColonyShip>
+  <DefaultConstructor>Konstrukteur</DefaultConstructor>
+  <DefaultAssaultShuttle>Enterkommando</DefaultAssaultShuttle>
+  <DefaultSupplyShuttle>Versorger</DefaultSupplyShuttle>
+  <DefaultResearchStation>Forschungsstation</DefaultResearchStation>
+  <DefaultMiningStation>Bergbaustation</DefaultMiningStation>
+  <DefaultMiningShip>Bergbauschiff</DefaultMiningShip>
   <DefaultMiningStation>Basic Mining Station</DefaultMiningStation>  
   
   <ThrustColor0R>95</ThrustColor0R>
@@ -44,9 +44,9 @@
   </PersonalityTraitsWeights>  
   
   <!-- Rebel Faction data.-->
-  <RebelName>Confederate Rebels</RebelName>
-  <RebelSing>Confederate</RebelSing>
-  <RebelPlur>Confederates</RebelPlur>
+  <RebelName>Konföderiertenrebellen</RebelName>
+  <RebelSing>Konföderierten</RebelSing>
+  <RebelPlur>Konföderierten</RebelPlur>
   <TroopNameIndex>2083</TroopNameIndex>
   <TroopDescriptionIndex>2092</TroopDescriptionIndex>
 
