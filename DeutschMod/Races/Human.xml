@@ -6,8 +6,8 @@
   <StartingShip>Jäger</StartingShip>
   <StartingScout>Aufklärer</StartingScout>
   <PrototypeShip>Erden-Prototyp</PrototypeShip>
-  <DefaultSmallTransport>Kl. Transporter</DefaultSmallTransport>
-  <DefaultTroopShip>Tr.-Transporter</DefaultTroopShip>
+  <DefaultSmallTransport>Leichter Frachter</DefaultSmallTransport>
+  <DefaultTroopShip>Truppen-Transport</DefaultTroopShip>
   <DefaultColonyShip>Kolonieschiff</DefaultColonyShip>
   <DefaultConstructor>Konstrukteur</DefaultConstructor>
   <DefaultAssaultShuttle>Enterkommando</DefaultAssaultShuttle>

@@ -1,0 +1,14 @@
+﻿<ExplorationEvent>
+  <Name>The Remnants!</Name>
+  <StoryStep>1</StoryStep>
+  <AllRemnantStories>true</AllRemnantStories>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <Image>Encounters/remnstory1.png</Image>
+      <TitleText>Zurückgelassene in der Galaxie</TitleText>
+      <DescriptionText>Bei unseren Erkundungsbemühungen sind wir auf eine seltsame Gruppe ausgesprochen feindseliger Außerirdischer gestoßen.  Diese Außerirdischen sind aggressiv, nicht kommunikationswillig oder fähig und nehmen keine Rücksicht auf ihre persönliche Sicherheit.  Die führende Theorie besagt, dass diese Schiffe die Überreste eines ehemaligen und jetzt gefallenen Weltraumimperiums sind.  Aus diesem Grund haben wir diese Rasse „The Remnant“ genannt.  \n \n Durch die Zerstörung von Überrestenschiffen und die Analyse ihrer Fragmente sollten unsere Wissenschaftler in der Lage sein, weitere Details über diese Überreste aufzudecken.</DescriptionText>
+      <ConfirmText>Ich werde das auf jeden Fall in meinem Protokoll vermerken.</ConfirmText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

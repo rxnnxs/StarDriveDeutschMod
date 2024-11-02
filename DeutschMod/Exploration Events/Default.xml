@@ -1,0 +1,13 @@
+﻿<ExplorationEvent>
+  <Name>Default</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>ERROR</TitleText>
+      <DescriptionText>ABSTURZ!  Ihre Truppen verfluchen die Götter oder das Universum oder was auch immer diese Version der Welt erschaffen hat, denn auf einem riesigen Schild steht „Außer Betrieb, bitte kontaktieren Sie den Ersteller des Mods“ auf etwas, das wie die mächtigste Waffe aussieht, die es je gab.  Mit einem Stirnrunzeln beäugt Kommandant James McGill das Gerät und berechnet schnell seinen Schwarzmarktwert ...</DescriptionText>
+      <ConfirmText>Allesamt inkompetente Idioten!</ConfirmText>
+      <MoneyGranted>150</MoneyGranted>
+      <RemoveTrigger>true</RemoveTrigger>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

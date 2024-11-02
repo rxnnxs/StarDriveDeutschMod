@@ -1,0 +1,13 @@
+﻿<ExplorationEvent>
+  <Name>Remnant Portal</Name>
+  <StoryStep>3</StoryStep>
+  <Story>AncientHelpers</Story>
+  <PotentialOutcomes>
+    <Outcome>
+      <Image>Encounters/remn.png</Image>     
+      <Chance>100</Chance>
+      <TitleText>Remnantaktivitäten</TitleText>
+      <DescriptionText>Weitere Analysen deuten darauf hin, dass die Überreste tatsächlich eine Art Wächter einer alten Rasse sind.  Es scheint, dass unsere Kolonisierungsbemühungen etwas in diesen Wächterschiffen ausgelöst haben.  Wir vermuten, dass es da draußen ein neues Remnant-Portal gibt.  Dieses Portal wird zum Transport einer Flotte von Remnantschiffen genutzt, die offenbar von schwächeren Imperien in unserer Region angezogen werden.  Wir haben auch seltsame Inaktivitätsperioden gesehen, in denen die Überreste passiv wirkten.  Nach diesem „Winterschlaf“ gehen sie gestärkt hervor.  Um die Ermittlungen fortzusetzen, sind weitere Trümmer von Wächtern erforderlich. Wir empfehlen Ihnen jedoch, Ihr Bestes zu geben, um nicht das schwächste Imperium in diesem Sektor zu sein, indem Sie Ihre Flotten aufbauen.</DescriptionText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

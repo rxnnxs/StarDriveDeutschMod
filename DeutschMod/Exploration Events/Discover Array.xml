@@ -1,0 +1,41 @@
+﻿<ExplorationEvent>
+  <Name>Mystery of the Remnant</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Scientific Discovery</TitleText>
+      <DescriptionText>Als Ihre Truppen die mysteriösen Ruinen betreten, zeigen ihre Scans sofort, dass dieses Bauwerk älter ist als jedes bekannte Bauwerk in der Galaxis.  Das Gebäude ist riesig und verfügt über einen einzigen großen offenen Raum im Inneren.  Eine Plattform hängt über einem zentralen Schacht, der tief in den Planetenkern führt.  \n \n Die Innenwände des Gebäudes sind vom Boden bis zur Decke mit kunstvollen Gravuren bedeckt.  Die Bilder zeigen ein humanoides Wesen, das auf der Plattform steht und von einer großen Energie überwältigt wird.  Diese Bilder werden immer wieder wiederholt.  \n \n Am anderen Ende dieser riesigen Halle entdecken Ihre Truppen eine aktive Energiequelle – ein kleines Gerät, das in einer Art Stasisfeld enthalten ist.  Bei der Inspektion handelt es sich bei dem Gerät um eine Art Quantendatenspeicher.  Die Fülle an entdeckten Informationen verschafft Ihrem Imperium einen Bonus von 10 % auf alle wissenschaftlichen Bemühungen.   \n \n Als du die Ruinen verlässt, erblickst du am Horizont ein riesiges Schiff ... es ist nicht freundlich.</DescriptionText>
+      <ScienceBonus>.10</ScienceBonus>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Remnant Exterminator</string>
+      </RemnantShipsToSpawn>
+     </Outcome>
+
+    <Outcome>
+      <Chance>20</Chance>
+      <TitleText>Fantastic Discovery</TitleText>
+      <DescriptionText>Als Ihre Truppen die mysteriösen Ruinen betreten, zeigen ihre Scans sofort, dass dieses Bauwerk älter ist als jedes bekannte Bauwerk in der Galaxis.  Das Gebäude ist riesig und verfügt über einen einzigen großen offenen Raum im Inneren.  Eine Plattform hängt über einem zentralen Schacht, der tief in den Planetenkern führt.  \n \n Die Innenwände des Gebäudes sind vom Boden bis zur Decke mit kunstvollen Gravuren bedeckt.  Die Bilder zeigen ein humanoides Wesen, das auf der Plattform steht und von einer großen Energie überwältigt wird.  Diese Bilder werden immer wieder wiederholt.  \n \n Am anderen Ende dieser riesigen Halle entdecken Ihre Truppen eine aktive Energiequelle – ein kleines Gerät, das in einer Art Stasisfeld enthalten ist.  Bei der Inspektion handelt es sich bei dem Gerät um eine Art Quantendatenspeicher.  Die Fülle an entdeckten Informationen verschafft Ihrem Imperium einen Bonus von 10 % auf alle wissenschaftlichen Bemühungen.   \n \n Als du die Ruinen verlässt, erblickst du am Horizont ein riesiges Schiff ... es ist nicht freundlich.</DescriptionText>
+      <FriendlyShipsToSpawn>
+        <string>Ancient Torpedo Cruiser</string>
+      </FriendlyShipsToSpawn>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Remnant Exterminator</string>
+      </RemnantShipsToSpawn>
+     </Outcome>
+
+    <Outcome>
+      <Chance>60</Chance>
+      <TitleText>Mysterious Discovery</TitleText>
+      <DescriptionText>Als Ihre Truppen die mysteriösen Ruinen betreten, zeigen ihre Scans sofort, dass dieses Bauwerk älter ist als jedes bekannte Bauwerk in der Galaxis.  Das Gebäude ist riesig und verfügt über einen einzigen großen offenen Raum im Inneren.  Eine Plattform hängt über einem zentralen Schacht, der tief in den Planetenkern führt.  \n \n Die Innenwände des Gebäudes sind vom Boden bis zur Decke mit kunstvollen Gravuren bedeckt.  Die Bilder zeigen ein humanoides Wesen, das auf der Plattform steht und von einer großen Energie überwältigt wird.  Diese Bilder werden immer wieder wiederholt.  \n \n Am anderen Ende dieser riesigen Halle entdecken Ihre Truppen eine aktive Energiequelle – ein kleines Gerät, das in einer Art Stasisfeld enthalten ist.  Bei der Inspektion handelt es sich bei dem Gerät um eine Art Quantendatenspeicher.  Die Fülle an entdeckten Informationen verschafft Ihrem Imperium einen Bonus von 10 % auf alle wissenschaftlichen Bemühungen.   \n \n Als du die Ruinen verlässt, erblickst du am Horizont ein riesiges Schiff ... es ist nicht freundlich.</DescriptionText>
+      <GrantArtifact>true</GrantArtifact>
+      <RemoveTrigger>true</RemoveTrigger>
+      <RemnantShipsToSpawn>
+        <string>Remnant Exterminator</string>
+      </RemnantShipsToSpawn>
+     </Outcome>
+    
+  </PotentialOutcomes>
+  
+</ExplorationEvent>

@@ -1,0 +1,13 @@
+﻿<ExplorationEvent>
+  <Name>Remnant Protocols</Name>
+  <StoryStep>4</StoryStep>
+  <Story>AncientHelpers</Story>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <Image>Encounters/remnstory4.png</Image>      
+      <TitleText>Remnant-Protokolle</TitleText>
+      <DescriptionText>Nachdem wir weiteren Zugriff auf defekte Remnantcomputer erhalten haben, glauben wir, einige ihrer Protokolle aufgedeckt zu haben.  Nach unserem Verständnis glauben sie, dass sie die Galaxie in der Balance halten.  Sie haben Wächter hinterlassen, die die Portalerstellung auslösten, sobald sie genügend empfindungsfähige Aktivität entdeckten.  Ihre Protokolle sehen vor, alles fühlende Leben unter Kontrolle zu halten und so für ein Gleichgewicht in der Galaxie zu sorgen.  Sie werden ihre Schiffe schicken, um Imperien zu helfen, die auf einem bestimmten Niveau ins Hintertreffen geraten, und zwar auf eine verdrehte Art und Weise, um sie stark genug für eine letztendlich stabile Galaxie zu machen.  Wir glauben, dass die Zerstörung des Remnant-Portals ihr Engagement in diesem Teil der Galaxie beenden wird.  Es scheint auch, dass das Portal eine ziemlich tödliche Strahlung von den Sternen absorbiert, die es umkreist, und die schlechte Nachricht ist, dass sie mit der Zeit immer stärker werden.</DescriptionText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

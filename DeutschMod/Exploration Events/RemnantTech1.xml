@@ -1,0 +1,14 @@
+﻿<ExplorationEvent>
+  <Name>Reverse Engineering</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>Die Geheimnisse der Remnant</TitleText>
+      <DescriptionText>Wir sind bei unseren Erkundungsbemühungen auf eine seltsame Gruppe ausgesprochen feindseliger Außerirdischer gestoßen.  Diese Außerirdischen sind aggressiv, nicht kommunikationswillig oder fähig und nehmen keine Rücksicht auf ihre persönliche Sicherheit.  Die führende Theorie besagt, dass diese Schiffe die Überreste eines ehemaligen und jetzt gefallenen Weltraumimperiums sind.  Aus diesem Grund haben wir dieser Rasse den Namen „Die Remnants“ gegeben.  \n \n Durch die Zerstörung von Restschiffen sollten unsere Wissenschaftler in der Lage sein, die fortschrittlichen Technologien zu untersuchen.  Wir müssen unsere Wissenschaftler mit der Aufgabe beauftragen, diese Geheimnisse zurückzuentwickeln.  Dem Forschungsbildschirm wurde ein neuer Technologiepfad „Geheimnisse“ hinzugefügt.</DescriptionText>
+<SecretTechDiscovered>Remnant Computing</SecretTechDiscovered>
+<ConfirmText>Erforschen wir es!</ConfirmText>
+    </Outcome>
+    
+  </PotentialOutcomes>
+  
+</ExplorationEvent>

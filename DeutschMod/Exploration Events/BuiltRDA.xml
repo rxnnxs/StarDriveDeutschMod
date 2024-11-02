@@ -1,0 +1,26 @@
+﻿<ExplorationEvent>
+  <Name>A Mysterious Signal</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>Sie haben das Remnant Detection Array aufgebaut</TitleText>
+      <DescriptionText>Ihre Suche nach den Geheimnissen von The Remnant geht weiter.  Es scheint, dass die Theorien Ihrer Wissenschaftler richtig sind: Bei der Aktivierung des Remnant Detection Array haben sie sofort einen anomalen Subraum-Datenstrom identifiziert, der, soweit sie es beurteilen können, von überall gleichzeitig und nicht von einem bestimmten Ort kommt.  Mit dieser allgegenwärtigen Qualität weist der Datenstrom eine bemerkenswerte Ähnlichkeit mit der universellen Hintergrundstrahlung auf, die mit normalen Radioteleskopen erkennbar ist – die Signalstärke ist in alle Richtungen gleich und extrem schwach.  Keines der bekannten Restschiffe wäre in der Lage, dieses Signal zu erkennen.
+
+Das Array hat jedoch ein zweites, konventionelleres Subraumsignal entdeckt.  Die Analyse legt nahe, dass es sich um eine verstärkte Version des schwächeren Signals handelt und dass es seinen Ursprung in unserer Galaxie hat!  \n \n Der Standort des Restsignals ist jetzt bekannt.  Wenn wir mehr erfahren wollen, müssen wir es finden und sehen, welche Geheimnisse es birgt!
+      </DescriptionText>
+      <SelectRandomPlanet>true</SelectRandomPlanet>
+      <SpawnBuildingOnPlanet>Signal Origin</SpawnBuildingOnPlanet>
+      <SpawnFleetInOrbitOfPlanet>Planetary Shield</SpawnFleetInOrbitOfPlanet>
+
+      <TroopsToSpawn>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+      </TroopsToSpawn>
+      
+    </Outcome>
+    
+  </PotentialOutcomes>
+  
+</ExplorationEvent>

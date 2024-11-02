@@ -1,0 +1,13 @@
+﻿<ExplorationEvent>
+  <Name>Remnant Software Bugs</Name>
+  <TriggerWhenOnlyRemnantsLeft>true</TriggerWhenOnlyRemnantsLeft>
+  <Story>AncientRaidersRandom</Story>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <Image>Encounters/remn.png</Image>      
+      <TitleText>Remnant Software Bugs</TitleText>
+      <DescriptionText>Wir wissen, dass bei den Resten der Sentinel-Software eine Fehlfunktion vorliegt.  Wir sind die einzige Rasse, die in diesem Sektor noch übrig ist.  Aus Sicherheitsgründen müssen wir ihre Portale entfernen.  Viel Glück!</DescriptionText>
+    </Outcome>
+  </PotentialOutcomes>
+</ExplorationEvent>

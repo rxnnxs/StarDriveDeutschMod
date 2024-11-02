@@ -1,0 +1,49 @@
+﻿<ExplorationEvent>
+  <Name>A Fire Upon the Deep</Name>
+  <PotentialOutcomes>
+    <Outcome>
+      <Chance>100</Chance>
+      <TitleText>Ihre Truppen sind auf ein riesiges Stargate gestoßen</TitleText> <DescriptionText>Ihr Angriffsteam erreicht die Quelle des Remnant-Kontrollsignals.  Es wird sofort klar, dass das Gebäude auf der Planetenoberfläche das Signal nicht sendet.  Stattdessen scheint es sich um eine Art Portal zu handeln, riesig groß und voller Energie.  Das Signal kommt von der anderen Seite des Portals.  \n \n Wer würde dieses Portal hier platzieren und zu welchem ​​Zweck?  Wohin führt es?  Da es nur einen Weg gibt, dies herauszufinden, wird ein Erkundungstrupp durch das Portal geschickt.  Fast sofort beginnt der Boden heftig zu beben.  Unter den Füßen Ihrer Truppen öffnen sich Risse.  Von Ihrem Erkundungstrupp geht eine hektische Nachricht ein.  „Das Portal...es führt zu einem Schiff! *Schüsse*...schwer bewaffnet...*Explosion*...ausgerüstet mit Biowaffen und *statischer Ladung.“  Die Übertragung endet.  Dabei taucht ein monströses Schiff und seine unterstützende Flotte aus dem Boden auf.  Seit Äonen begraben, ist eine schlafende Bedrohung erwacht.</DescriptionText>
+      <RemoveTrigger>true</RemoveTrigger>
+      <TroopsToSpawn>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+        <string>Ancient Assault Drone</string>
+      </TroopsToSpawn>
+      <RemnantShipsToSpawn>
+        <string>Remnant Mothership</string>
+        <string>Remnant Slaver</string>
+        <string>Remnant Inhibitor</string>
+        <string>Ancient Torpedo Cruiser</string>
+        <string>Ancient Torpedo Cruiser</string>
+        <string>Ancient Carrier</string>
+        <string>Ancient Carrier</string>
+        <string>Ancient Torpedo Cruiser</string>
+        <string>Ancient Torpedo Cruiser</string>
+        <string>Ancient Carrier</string>
+        <string>Ancient Carrier</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Xeno Fighter</string>
+        <string>Disruptor Drone</string>
+        <string>Disruptor Drone</string>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+        <string>Slaver Drone</string>
+        <string>Slaver Drone</string>
+        <string>Support Drone</string>
+        <string>Support Drone</string>
+        <string>Disruptor Drone</string>
+        <string>Disruptor Drone</string>
+        <string>Heavy Drone</string>
+        <string>Heavy Drone</string>
+      </RemnantShipsToSpawn>
+    </Outcome>
+    
+  </PotentialOutcomes>
+  
+</ExplorationEvent>
